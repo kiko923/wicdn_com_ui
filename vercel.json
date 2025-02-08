@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/en-US", "destination": "/index_en.html" },
+    { "source": "/zh-CN", "destination": "/" },
+  ]
+}
